@@ -1,0 +1,81 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "img": "imgs/SITE-PARIS.jpg",
+      "img_class" : "big",
+      "title": "",
+      "body": ""
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "img": "imgs/SITE-LYON.jpg",
+      "img_class" : "small",
+      "title": "",
+      "body": 
+      {
+        "0":{
+            "text_class": "",
+            "text":"Disposant d´une équipe pluridisciplinaire expérimentée, et de plus de 850 études à notre actif, nous agissons en facilitateur de surélévation pour offrir un accompagnement à la carte à l’ensemble des acteurs de l´immobilier et de la construction."
+          },
+          "1":
+          {
+            "text_class": "",
+            "text":"Objectifs :\n– Développer des territoires inexploités pour créer de nouveaux m2\n– Aider les propriétaires à mesurer le potentiel de valorisation de leur patrimoine aérien\n– Accélérer la prise de décision grâce à des éléments fiables\n– Proposer une stratégie d’optimisation du patrimoine\nDécouvrir notre offre de services"
+          }
+      }
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "img": "imgs/logiciel.png",
+      "img_class" : "small",
+      "title": "LA SMART DATA AU SERVICE DU PATRIMOINE AÉRIEN",
+      "body": {
+        "0":{
+          "text_class": "",
+          "text":"Nous avons développé une technologie numérique qui permet d’explorer, de détecter et d’analyser le potentiel de valorisation du patrimoine aérien : UPFACTOR GEOSERVICES®.\nConçu pour mener des études prospectives à grande échelle, UPFACTOR GEOSERVICES® est un système d’information géographique qui exploite une base de données agrégeant l’ensemble des informations nécessaires à la définition des potentiels constructibles : adresses, largeurs de rue, hauteurs de bâtiment, PLU, cadastre solaire, secteurs protégés…\nL’analyse « multi-adresses » permet à nos clients d’élaborer des stratégies de valorisation de leur patrimoine programmées dans le temps.\nUPFACTOR GEOSERVICES® industrialise le processus d’identification et d’analyse du potentiel foncier de nos villes.\n– Gain de temps important\n6 fois plus rapide en moyenne*\n– Réduction des coûts considérable\n3 fois moins cher*"
+        }
+      }
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "img": "imgs/DURANTI_PROJET1.jpg",
+      "img_class" : "small",
+      "title": "LA SURÉLÉVATION POUR TOUS",
+      "body": {
+        "0":{
+          "text_class": "",
+          "text":"Par les enjeux qu’elle touche (rénovation énergétique, création de logements, optimisation patrimoniale…), la surélévation est une opportunité pour les acteurs de l’immobilier et de la construction.\nNos missions s’adressent ainsi à différents types de clients :\n– Bailleurs sociaux\n– Institutionnels et Foncières privées\n– Promoteurs immobiliers\n– Entreprises\n– Groupes hôteliers et indépendants\n– Propriétaires uniques\n– Copropriétés et Syndics de copropriétés\n– Copropriétaires du dernier étage et particuliers\nDécouvrez nos projets"
+        }
+      }
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "img": "imgs/pic1.jpg",
+      "img_class" : "small",
+      "title": "LA SYNERGIE D’UNE ÉQUIPE À VOTRE SERVICE",
+      "body": {
+        "0":{
+          "text_class": "",
+          "text":"Pour chaque projet, nous mettons à votre service une équipe talentueuse, pluridisciplinaire et expérimentée.\nNous travaillons en synergie afin de vous conseiller de manière transversale dans toutes les dimensions de votre projet.\nDécouvrir notre équipe"
+        }
+      }   
+     },
+    {
+      "userId": 1,
+      "id": 6,
+      "img": "imgs/ville-de-demain.jpg",
+      "img_class" : "small",
+      "title": "LA VILLE DE DEMAIN S'IMAGINE AUJOURD'HUI",
+      "body": {
+        "0":{
+          "text_class": "",
+          "text":"La ville dense, accessible, responsable et durable est en construction. Et elle se renouvellera par le haut.\nParticipant à la réalisation de villes durables, le processus de surélévation s’inscrit dans cette démarche pragmatique et écologique, permettant la construction de nouveaux éléments urbains au-dessus du tissu existant, en offrant une densification douce de la ville.\nLa surélévation est également un levier de financement de travaux dans le cadre de la rénovation et de la transition énergétique, par l’implantation d’énergies renouvelables en toiture, de l’accessibilité par la mise aux normes ou l’installation d’ascenseurs et d’embellissement par la réfection des façades et de parties communes."
+        }
+      }
+    }
+]
