@@ -17,13 +17,16 @@
     "bootstrap-vue": "^2.0.0-rc.11",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
-    "nuxt": "^2.0.0"
+    "itowns": "^2.14.0",
+    "jquery": "^3.4.1",
+    "nuxt": "^2.0.0",
+    "three": "^0.108.0"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9",
     "@vue/test-utils": "^1.0.0-beta.27",
     "babel-jest": "^24.1.0",
-    "jest": "^24.1.0",
+    "jest": "^24.9.0",
+    "nodemon": "^1.18.9",
     "vue-jest": "^4.0.0-0"
   }
 }
